@@ -11,7 +11,7 @@ class DemoScene extends Scene {
 	public function new() {
 		super();
 
-		song = new Sound('assets/music/life_of_riley.ogg', false, false, 0.5, 10);
+		song = new Sound('assets/music/life_of_riley.ogg', false, false, 0.5, 1);
 		song.play();
 	}
 
