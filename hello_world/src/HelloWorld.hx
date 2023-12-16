@@ -12,7 +12,7 @@ class HelloWorld extends Scene {
 		super();
 
 		helloSprite = new Sprite(Game.window.width / 2, Game.window.height / 2);
-		helloSprite.texture = Texture.getImageTex('assets/images/blueprint.png');
+		helloSprite.texture = Texture.getCachedTex('assets/images/blueprint.png');
 		add(helloSprite);
 	}
 }
