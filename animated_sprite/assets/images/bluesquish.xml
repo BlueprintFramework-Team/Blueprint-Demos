@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="bluesquish.png">
+	<!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="squish0000" x="1" y="1373" width="612" height="372" frameX="0" frameY="-62" frameWidth="612" frameHeight="495"/>
+	<SubTexture name="squish0001" x="1" y="954" width="570" height="418" frameX="-21" frameY="-39" frameWidth="612" frameHeight="495"/>
+	<SubTexture name="squish0002" x="1" y="497" width="534" height="456" frameX="-39" frameY="-20" frameWidth="612" frameHeight="495"/>
+	<SubTexture name="squish0003" x="1" y="497" width="534" height="456" frameX="-39" frameY="-20" frameWidth="612" frameHeight="495"/>
+	<SubTexture name="squish0004" x="1" y="1" width="496" height="495" frameX="-63" frameY="0" frameWidth="612" frameHeight="495"/>
+	<SubTexture name="squish0005" x="1" y="1" width="496" height="495" frameX="-63" frameY="0" frameWidth="612" frameHeight="495"/>
+</TextureAtlas>
